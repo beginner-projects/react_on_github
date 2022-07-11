@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react_on_github/static/css/main.073c9b0a.css",
-    "main.js": "/react_on_github/static/js/main.f23f0c9e.js",
+    "main.js": "/react_on_github/static/js/main.1b3b4041.js",
     "static/js/787.a3103ff7.chunk.js": "/react_on_github/static/js/787.a3103ff7.chunk.js",
     "static/media/logo_btc.jpg": "/react_on_github/static/media/logo_btc.1d1fc3872a55bd5221d4.jpg",
     "index.html": "/react_on_github/index.html",
     "main.073c9b0a.css.map": "/react_on_github/static/css/main.073c9b0a.css.map",
-    "main.f23f0c9e.js.map": "/react_on_github/static/js/main.f23f0c9e.js.map",
+    "main.1b3b4041.js.map": "/react_on_github/static/js/main.1b3b4041.js.map",
     "787.a3103ff7.chunk.js.map": "/react_on_github/static/js/787.a3103ff7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f23f0c9e.js"
+    "static/js/main.1b3b4041.js"
   ]
 }
