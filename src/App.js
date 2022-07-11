@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={Bitcoin} className="App-logo" alt="logo" />
         <p>
-          Hello Bitcoin !
+          Hello Bitcoin ! i am updating you now ASAP.
         </p>
         <a
           className="App-link"
