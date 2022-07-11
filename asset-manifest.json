@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react_on_github/static/css/main.073c9b0a.css",
-    "main.js": "/react_on_github/static/js/main.e1b635f1.js",
-    "static/js/787.a3103ff7.chunk.js": "/react_on_github/static/js/787.a3103ff7.chunk.js",
-    "static/media/logo_btc.jpg": "/react_on_github/static/media/logo_btc.1d1fc3872a55bd5221d4.jpg",
-    "index.html": "/react_on_github/index.html",
-    "main.073c9b0a.css.map": "/react_on_github/static/css/main.073c9b0a.css.map",
-    "main.e1b635f1.js.map": "/react_on_github/static/js/main.e1b635f1.js.map",
-    "787.a3103ff7.chunk.js.map": "/react_on_github/static/js/787.a3103ff7.chunk.js.map"
+    "main.css": "/bikeRental/static/css/main.6332dac0.css",
+    "main.js": "/bikeRental/static/js/main.d684b077.js",
+    "static/media/bike1.jpg": "/bikeRental/static/media/bike1.0f3ce95ea4d8a4e793ba.jpg",
+    "static/media/bike3.jpg": "/bikeRental/static/media/bike3.acca12ed470032e18ac1.jpg",
+    "static/media/bike2.jpg": "/bikeRental/static/media/bike2.31a397e092827de176e1.jpg",
+    "index.html": "/bikeRental/index.html",
+    "main.6332dac0.css.map": "/bikeRental/static/css/main.6332dac0.css.map",
+    "main.d684b077.js.map": "/bikeRental/static/js/main.d684b077.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e1b635f1.js"
+    "static/css/main.6332dac0.css",
+    "static/js/main.d684b077.js"
   ]
 }
